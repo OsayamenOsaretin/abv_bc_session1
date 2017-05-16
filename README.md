@@ -14,7 +14,7 @@ Day two - Tasks
    -Final assigments: Take constant time d * O(1)
   
   
-  Total asymptotic run time complexity: a * O(1) + (b * O(1) * O(n)) + d * O(1)
-  complexity is dominated by linear component 
+                     Total asymptotic run time complexity: a * O(1) + (b * O(1) * O(n)) + d * O(1)
+                                  complexity is dominated by linear component 
   
-  O(N) is = O(n) (Linear time)
+                                         O(N) is = O(n) (Linear time)
