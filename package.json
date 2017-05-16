@@ -1,7 +1,7 @@
 {
   "name": "abv_bc_session1",
   "version": "1.0.0",
-  "description": "Day two of Bootcamp Tasks",
+  "description": "Day two of Bootcamp: Task 1(aritGeo)",
   "main": "app/library.js",
   "directories": {
     "test": "tests"
