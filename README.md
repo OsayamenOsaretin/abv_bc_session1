@@ -13,4 +13,6 @@ Day two - Tasks
    
    
   Final Asymptotic complexity : O(N) = a * O(1) + b * O(1) + O(n) + c * O(1)
-                                O(N) approximately O(n) since a, b and c are constants and negligble
+                               
+                               O(N) approximately=  O(n) 
+                               since a, b and c are constants and negligble
