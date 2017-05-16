@@ -1,6 +1,6 @@
 'use strict';
 
-  const MyApp = expect('.../app/library.js')
+  const MyApp = require('../app/library.js');
 
     describe('Return the min and max number in the list in a new list follows `[min, max]`', function () {
 
