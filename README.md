@@ -10,15 +10,17 @@ To use this solution:
 
  - Clone this repository: 
 
- run ```git clone https://githubcom/OsayamenOsaretin/abv_bc_session1/tree/function-aritGeo``` 
+                       run from your git terminal
+ 
+ ```git clone https://githubcom/OsayamenOsaretin/abv_bc_session1/tree/function-aritGeo``` 
 
- from your git terminal
+ 
 
 - In your working directory, install dependencies by running:
 
-```npm install```
+                           ```npm install```
 
- in your command prompt or Terminal
+ 
 
 ### Prerequisites
 You need these installed if you want the sweet awesomeness of an A.P and G.P checker
