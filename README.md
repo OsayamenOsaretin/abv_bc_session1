@@ -11,7 +11,7 @@ To use this solution:
  - Clone this repository: 
 
      run from your git terminal-
-  ```https://github.com/OsayamenOsaretin/abv_bc_session1/blob/function-findMinMax/README.md``` 
+  ``` git clone https://github.com/OsayamenOsaretin/abv_bc_session1/blob/function-findMinMax/README.md``` 
 
  
 
